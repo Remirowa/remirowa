@@ -1,6 +1,6 @@
 
 
-|<p align="left"><b>Hi </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Renata </br>now I am studying frontend development and I like it! </br></br>- 🔭 I’m currently studying <b>HTML and CSS</b> and actively researching Github </br> - 💬 Ask me about <b> visual arts, social media or cool places in SaintPetersburg! </b> </br>- ⚡ Fun fact: <b>actually... I'm an architect</b></p>|<img src="https://avatars.mds.yandex.net/get-znatoki/1540166/2a0000017a532abff6b1bc6824e243d1f470/w800" width=90% height=90%>|
+|<p align="left"><b>Hi </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Renata </br>now I am studying frontend development and I like it! </br></br>- 🔭 I’m currently studying <b>HTML and CSS</b> and actively researching Github </br> - 💬 Ask me about <b> social media, visual arts or cool places in SaintPetersburg! </b> </br>- ⚡ Fun fact: <b>actually... I'm an architect</b></p>|<img src="https://avatars.mds.yandex.net/get-znatoki/1540166/2a0000017a532abff6b1bc6824e243d1f470/w800" width=90% height=90%>|
 |-----:|---------------|
 
 <p align="center">
