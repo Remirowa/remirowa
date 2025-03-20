@@ -1,6 +1,6 @@
 
 
-|<samp><p align = "left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Renata </br></br> Frontend: HTML5, CSS3, SCSS/SASS, Bootstrap, JS, React (soon!)</br>Other: Git, GitHub, Visual Studio Code, Figma, Photoshop, Illustrator, Indesign, Tilda</br> - 💬 Ask me about social media, visual arts </br> or cool places in SaintPetersburg!</br>- ⚡ Fun fact: <b>actually... I'm an architect</p></samp>|<img src="https://ie.wampi.ru/2023/02/19/ec2af1f5-8517-4923-9c98-ce3150d551f2.jpg" width=90% height=100%>|
+|<samp><p align = "left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Renata </br></br> Frontend: HTML5, CSS3, SCSS/SASS, Bootstrap, JS, React (soon!)</br>Other: Git, GitHub, Visual Studio Code, Figma, Photoshop, Illustrator, Indesign, Tilda</br> - 💬 Ask me about social media, visual arts </br> or cool places in SaintPetersburg!</br>- ⚡ Fun fact: <b>actually... I'm an architect</p></samp>|<img src="https://archive-media.palanq.win/bant/image/1651/29/1651296106415.png" width=80% height=100%>|
 |-----:|---------------|
 
 <p align="center">
