@@ -1,6 +1,6 @@
 
 
-|<samp><p align = "left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Renata </br></br> Frontend: HTML5, CSS3, SCSS/SASS, Bootstrap</br>Other: GitHub, Visual Studio Code, Figma, Photoshop, Illustrator, Indesign, Tilda</br> - 💬 Ask me about social media, visual arts </br> or cool places in SaintPetersburg!</br>- ⚡ Fun fact: I'm a real meme lover! Here are some of my favorites:</br></br><img src="https://sun9-5.userapi.com/impg/d7LD4WlE9XPAX6vZVOWgRZtOb3MaWv3iH67Wmg/k16uU3MVGuc.jpg?size=500x786&quality=95&sign=6213a3135ee8ab6ce96bc0da4cd72356&type=album" width=85% height=100%></p></samp>|<img src="https://archive-media.palanq.win/bant/image/1651/29/1651296106415.png" width=73% height=100%>|
+|<samp><p align = "left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Renata </br></br> Frontend: HTML5, CSS3, SCSS/SASS, Bootstrap</br>Other: GitHub, Visual Studio Code, Figma, Photoshop, Illustrator, Indesign, Tilda</br> - 💬 Ask me about social media, visual arts </br> or cool places in SaintPetersburg!</br>- ⚡ Fun fact: I'm a real meme lover! Here are some of my favorites:</br></br><img src="https://sun9-5.userapi.com/impg/d7LD4WlE9XPAX6vZVOWgRZtOb3MaWv3iH67Wmg/k16uU3MVGuc.jpg?size=500x786&quality=95&sign=6213a3135ee8ab6ce96bc0da4cd72356&type=album" width=90% height=100%></p></samp>|<img src="https://archive-media.palanq.win/bant/image/1651/29/1651296106415.png" width=73% height=100%>|
 |-----:|---------------|
 
 <p align="center">
